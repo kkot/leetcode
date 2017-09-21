@@ -1,4 +1,4 @@
-package Solution_310_Minimum_Height_Trees;
+package Problem_310_Minimum_Height_Trees;
 
 import java.util.ArrayList;
 import java.util.HashMap;
